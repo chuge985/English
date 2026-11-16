@@ -1,3 +1,9 @@
 empowers 赋予……能力
 solve 解决
 general 一般的，总的
+relevance 关联，关联性
+usefulness 用处，实用性
+relevant 相关的，对应的
+regardless 无论，不管
+consistency 一致性
+exploration 勘探
