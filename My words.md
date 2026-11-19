@@ -7,3 +7,4 @@ relevant 相关的，对应的
 regardless 无论，不管
 consistency 一致性
 exploration 勘探
+Convert v 转换
